@@ -1,5 +1,5 @@
 @php
-    $nama = 'Fanny';
+    $nama = 'Fachri';
     $nim = '0110..';
     $prodi = 'Sistem Informasi';
     $angkatan = 2023;
